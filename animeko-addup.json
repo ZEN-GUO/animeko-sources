@@ -15,7 +15,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".hl-item-title a[href^='/video/']",
               "preferShorterName": true
@@ -147,7 +147,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".card-title > a",
               "preferShorterName": true
@@ -203,7 +203,7 @@
         "factoryId": "web-selector",
         "version": 2,
         "arguments": {
-          "name": "酱紫社(修复)",
+          "name": "酱紫社",
           "description": "",
           "iconUrl": "http://www.jzsdm1.com/upload/eighteen/20241227-1/991272b4a1029e60a9951c8ea874ff2a.png",
           "searchConfig": {
@@ -279,7 +279,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".module-search-item h3 a[href^='/dongman/']",
               "preferShorterName": true
@@ -345,7 +345,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".detail-info a[href^='/xvd']",
               "preferShorterName": true
@@ -411,7 +411,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": "dl h3 a[href^='/anime/']",
               "preferShorterName": true
@@ -477,7 +477,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": "h4.stui-vodlist__title a[href^='/dm/']",
               "preferShorterName": true

@@ -81,7 +81,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".hl-item-title a[href^='/video/']",
               "preferShorterName": true
@@ -345,7 +345,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".card-title > a",
               "preferShorterName": true
@@ -477,7 +477,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".module-search-item h3 a[href^='/dongman/']",
               "preferShorterName": true
@@ -543,7 +543,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": ".detail-info a[href^='/xvd']",
               "preferShorterName": true
@@ -1567,7 +1567,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": "dl h3 a[href^='/anime/']",
               "preferShorterName": true
@@ -1633,7 +1633,7 @@
             "searchUseSubjectNamesCount": 1,
             "rawBaseUrl": "",
             "requestInterval": 3000,
-            "subjectFormatId": "A",
+            "subjectFormatId": "a",
             "selectorSubjectFormatA": {
               "selectLists": "h4.stui-vodlist__title a[href^='/dm/']",
               "preferShorterName": true
